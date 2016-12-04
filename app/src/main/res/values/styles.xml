@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Aqui se crean los estilos para para el boton login -->
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Aqui se crean las propiedades para los campos de texto -->
+    <style name="EditTextWhite" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHighlight">@color/editTextColorWhite</item>
+        <item name="android:textColorLink">@color/editTextColorWhite</item>
+        <item name="android:textColorHint">@color/editTextColorWhite</item>
+        <item name="android:textSize">@dimen/editText_textSize_login</item>
+        <item name="android:textColorPrimary">@color/editTextColorWhite</item>
+        <item name="colorAccent">@color/editTextColorWhite</item>
+        <item name="colorControlNormal">@color/editTextColorWhite</item>
+        <item name="colorControlActivated">@color/editTextColorWhite</item>
+    </style>
+
+    <!-- Aqui se crean las propiedades para los campos del create account (letra negra) -->
+    <style name="EditTextBlack" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHighlight">@color/editTextColorBlack</item>
+        <item name="android:textColorLink">@color/editTextColorBlack</item>
+        <item name="android:textColorHint">@color/editTextColorBlack</item>
+        <item name="android:textSize">@dimen/editText_textSize_login</item>
+        <item name="android:textColorPrimary">@color/editTextColorBlack</item>
+        <item name="colorAccent">@color/editTextColorBlack</item>
+        <item name="colorControlNormal">@color/editTextColorBlack</item>
+        <item name="colorControlActivated">@color/editTextColorBlack</item>
+    </style>
+</resources>

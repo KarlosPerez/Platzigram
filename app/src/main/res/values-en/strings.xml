@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name = "hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">Dont have an Account?, </string>
+    <string name="create_here">Create One Here</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_button_createaccount">Join Us</string>
+    <string name="toolbar_title_createaccount">Create Account</string>
+    <string name="username_card">Uriel Ramirez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likeNumber_card">10 likes</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Profile</string>
+    <string name="secondWordDetail">Me Gusta</string>
+    <string name="loren">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu nisl vitae tortor egestas sollicitudin. Etiam hendrerit odio enim, in blandit mi fringilla id. Donec in sagittis ligula, non pulvinar sem. Pellentesque nulla magna, ornare nec lectus ac, accumsan tristique velit. Praesent volutpat ac risus et malesuada. Sed sed risus nisi. Etiam eu commodo nibh. Nam congue enim at massa ultricies lobortis. Ut vel rhoncus nunc. Donec rhoncus eu ligula et feugiat. Sed sagittis dolor ac vulputate aliquam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec convallis lacinia massa, ut posuere libero lacinia at. Fusce sit amet pharetra tortor. Sed lobortis tortor accumsan leo tempus, sed imperdiet eros pulvinar.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+</resources>
